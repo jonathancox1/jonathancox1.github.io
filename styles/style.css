@@ -30,7 +30,7 @@ html {
     text-align: left;
     font-size: 16px;    
     line-height: 2;
-    margin: 10px;
+    margin: 10px auto;
     padding-left: 4px;
     letter-spacing: 1px;
     border: 4px dashed salmon;
